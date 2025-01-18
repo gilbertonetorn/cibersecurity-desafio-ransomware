@@ -1,0 +1,10 @@
+<config>
+    <!-- Caminho do diretório a ser varrido -->
+    <scanPath>caminho/do/seu/diretorio</scanPath>
+
+    <!-- Define se a varredura será recursiva (true/false) -->
+    <recursive>true</recursive>
+	
+	<!-- Define a chave simetrica de criptografia/descriptografia (pode ser 16/24/32 bytes) -->
+	 <cryptoKey>testeransomwares</cryptoKey>
+</config>
