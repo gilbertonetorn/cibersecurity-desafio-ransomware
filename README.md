@@ -10,3 +10,6 @@ Então, eu me baseei nesses códigos, mas preferi evoluir com as seguintes mudan
 3) colocar as informações do caminho, da recursvidade e da chave simétrica de criptografia em um arquivo xml de configuração.
 
 Com isso, gerei os arquivos desafioDioRansomware.py e config.xml, que estão nesse repositório.
+
+Na imagem abaixo, podemos ver o passo a passo de utilização do script:
+![Captura de tela 2025-01-18 204337](https://github.com/user-attachments/assets/4a52a7c7-4708-4b22-a00f-b5cc3d99b8c4)
